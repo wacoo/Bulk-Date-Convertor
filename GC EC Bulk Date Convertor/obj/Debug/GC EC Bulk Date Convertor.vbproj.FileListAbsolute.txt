@@ -1,0 +1,12 @@
+C:\Users\wac\documents\visual studio 2015\Projects\GC EC Bulk Date Convertor\GC EC Bulk Date Convertor\bin\Debug\GC EC Bulk Date Convertor.exe.config
+C:\Users\wac\documents\visual studio 2015\Projects\GC EC Bulk Date Convertor\GC EC Bulk Date Convertor\obj\Debug\GC EC Bulk Date Convertor.exe
+C:\Users\wac\documents\visual studio 2015\Projects\GC EC Bulk Date Convertor\GC EC Bulk Date Convertor\obj\Debug\GC EC Bulk Date Convertor.xml
+C:\Users\wac\documents\visual studio 2015\Projects\GC EC Bulk Date Convertor\GC EC Bulk Date Convertor\obj\Debug\GC EC Bulk Date Convertor.pdb
+C:\Users\wac\documents\visual studio 2015\Projects\GC EC Bulk Date Convertor\GC EC Bulk Date Convertor\bin\Debug\GC EC Bulk Date Convertor.exe
+C:\Users\wac\documents\visual studio 2015\Projects\GC EC Bulk Date Convertor\GC EC Bulk Date Convertor\bin\Debug\GC EC Bulk Date Convertor.pdb
+C:\Users\wac\documents\visual studio 2015\Projects\GC EC Bulk Date Convertor\GC EC Bulk Date Convertor\bin\Debug\GC EC Bulk Date Convertor.xml
+C:\Users\wac\documents\visual studio 2015\Projects\GC EC Bulk Date Convertor\GC EC Bulk Date Convertor\bin\Debug\HabeshaDateTimePicker.dll
+C:\Users\wac\documents\visual studio 2015\Projects\GC EC Bulk Date Convertor\GC EC Bulk Date Convertor\obj\Debug\GC EC Bulk Date Convertor.vbprojResolveAssemblyReference.cache
+C:\Users\wac\documents\visual studio 2015\Projects\GC EC Bulk Date Convertor\GC EC Bulk Date Convertor\obj\Debug\GC_EC_Bulk_Date_Convertor.Form1.resources
+C:\Users\wac\documents\visual studio 2015\Projects\GC EC Bulk Date Convertor\GC EC Bulk Date Convertor\obj\Debug\GC_EC_Bulk_Date_Convertor.Resources.resources
+C:\Users\wac\documents\visual studio 2015\Projects\GC EC Bulk Date Convertor\GC EC Bulk Date Convertor\obj\Debug\GC EC Bulk Date Convertor.vbproj.GenerateResource.Cache

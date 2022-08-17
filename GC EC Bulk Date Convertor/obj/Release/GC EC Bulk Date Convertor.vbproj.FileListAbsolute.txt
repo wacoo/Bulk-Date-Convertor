@@ -1,0 +1,11 @@
+C:\Users\wac\Documents\Visual Studio 2015\Projects\GC EC Bulk Date Convertor\GC EC Bulk Date Convertor\bin\Release\GC EC Bulk Date Convertor.exe.config
+C:\Users\wac\Documents\Visual Studio 2015\Projects\GC EC Bulk Date Convertor\GC EC Bulk Date Convertor\bin\Release\GC EC Bulk Date Convertor.exe
+C:\Users\wac\Documents\Visual Studio 2015\Projects\GC EC Bulk Date Convertor\GC EC Bulk Date Convertor\bin\Release\GC EC Bulk Date Convertor.pdb
+C:\Users\wac\Documents\Visual Studio 2015\Projects\GC EC Bulk Date Convertor\GC EC Bulk Date Convertor\bin\Release\GC EC Bulk Date Convertor.xml
+C:\Users\wac\Documents\Visual Studio 2015\Projects\GC EC Bulk Date Convertor\GC EC Bulk Date Convertor\bin\Release\HabeshaDateTimePicker.dll
+C:\Users\wac\Documents\Visual Studio 2015\Projects\GC EC Bulk Date Convertor\GC EC Bulk Date Convertor\obj\Release\GC_EC_Bulk_Date_Convertor.Form1.resources
+C:\Users\wac\Documents\Visual Studio 2015\Projects\GC EC Bulk Date Convertor\GC EC Bulk Date Convertor\obj\Release\GC_EC_Bulk_Date_Convertor.Resources.resources
+C:\Users\wac\Documents\Visual Studio 2015\Projects\GC EC Bulk Date Convertor\GC EC Bulk Date Convertor\obj\Release\GC EC Bulk Date Convertor.vbproj.GenerateResource.Cache
+C:\Users\wac\Documents\Visual Studio 2015\Projects\GC EC Bulk Date Convertor\GC EC Bulk Date Convertor\obj\Release\GC EC Bulk Date Convertor.exe
+C:\Users\wac\Documents\Visual Studio 2015\Projects\GC EC Bulk Date Convertor\GC EC Bulk Date Convertor\obj\Release\GC EC Bulk Date Convertor.xml
+C:\Users\wac\Documents\Visual Studio 2015\Projects\GC EC Bulk Date Convertor\GC EC Bulk Date Convertor\obj\Release\GC EC Bulk Date Convertor.pdb
